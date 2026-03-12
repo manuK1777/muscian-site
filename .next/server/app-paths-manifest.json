@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/bio/page": "app/bio/page.js",
+  "/proyectos/page": "app/proyectos/page.js",
+  "/media/page": "app/media/page.js",
+  "/proximos-conciertos/page": "app/proximos-conciertos/page.js",
+  "/contacto/page": "app/contacto/page.js",
+  "/press/page": "app/press/page.js"
+}

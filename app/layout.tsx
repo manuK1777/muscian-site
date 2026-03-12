@@ -1,6 +1,6 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Alfa_Slab_One, Work_Sans, Bodoni_Moda } from 'next/font/google';
+import { Alfa_Slab_One, Work_Sans, Playfair_Display } from 'next/font/google';
 import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
 
@@ -10,7 +10,7 @@ const sans = Work_Sans({
   display: 'swap',
 });
 
-const serif = Bodoni_Moda({
+const serif = Playfair_Display({
   subsets: ['latin'],
   variable: '--font-serif',
   display: 'swap',
