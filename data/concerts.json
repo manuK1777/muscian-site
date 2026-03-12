@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2025-05-10",
+    "city": "Madrid",
+    "venue": "Café Central",
+    "link": "https://example.com/entradas-madrid"
+  },
+  {
+    "date": "2025-06-02",
+    "city": "Barcelona",
+    "venue": "Jamboree",
+    "link": "https://example.com/entradas-barcelona"
+  }
+]

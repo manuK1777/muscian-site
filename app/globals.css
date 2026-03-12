@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+.rich-text p + p {
+  margin-top: 0.75rem;
+}
+
+.rich-text ul,
+.rich-text ol {
+  margin-left: 1.5rem;
+  margin-top: 0.75rem;
+}
+
+.rich-text li + li {
+  margin-top: 0.25rem;
+}
