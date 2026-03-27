@@ -20,11 +20,11 @@ export function SiteHeader() {
 
   return (
     <header className="border-b border-black/5 bg-white/80 backdrop-blur">
-      <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 md:px-8">
-        <Link href="/" className="font-display text-xl uppercase tracking-[0.15em]">
-          Manuel K
+      <div className="mx-auto flex h-16 items-center px-4 md:px-8">
+        <Link href="/" className="font-display text-xl tracking-[0.15em]">
+          Manuel Krapovickas
         </Link>
-        <nav className="hidden gap-6 text-xs uppercase tracking-[0.2em] md:flex">
+        <nav className="ml-auto hidden items-center gap-10 text-xs uppercase tracking-[0.2em] md:flex">
           {navItems.map((item) => {
             const isActive =
               item.href === '/' ? pathname === item.href : pathname.startsWith(item.href);
