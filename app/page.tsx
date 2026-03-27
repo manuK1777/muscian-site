@@ -3,16 +3,16 @@ export default function HomePage() {
     <section className="flex min-h-[60vh] flex-col items-center justify-center space-y-8 text-center">
       <div className="space-y-3">
         <p className="font-sans text-xs uppercase tracking-[0.25em] text-foreground/60">
-          Web oficial de Manuel K
+          Web de Manuel Krapovickas
         </p>
         <h1 className="font-serif text-4xl italic md:text-5xl">En construcció</h1>
         <p className="mx-auto max-w-xl text-sm text-foreground/80">
-          Estem preparant una nova experiència. Mentrestant, pots seguir-me a les meves xarxes socials:
+          Mentrestant, pots seguir-me a les meves xarxes socials:
         </p>
       </div>
       <nav className="flex items-center justify-center gap-6 text-foreground/70">
         <a
-          href="https://youtube.com"
+          href="https://www.youtube.com/@manuelkrapovickas310"
           target="_blank"
           rel="noreferrer"
           className="hover:text-foreground"
@@ -29,7 +29,7 @@ export default function HomePage() {
           </svg>
         </a>
         <a
-          href="https://instagram.com"
+          href="https://www.instagram.com/manuelkrapovickas"
           target="_blank"
           rel="noreferrer"
           className="hover:text-foreground"
@@ -49,7 +49,7 @@ export default function HomePage() {
           </svg>
         </a>
         <a
-          href="https://facebook.com"
+          href="https://www.facebook.com/manuel.krapovickas"
           target="_blank"
           rel="noreferrer"
           className="hover:text-foreground"
@@ -65,7 +65,7 @@ export default function HomePage() {
           </svg>
         </a>
         <a
-          href="https://soundcloud.com"
+          href="https://soundcloud.com/manuel-krapovickas"
           target="_blank"
           rel="noreferrer"
           className="hover:text-foreground"
