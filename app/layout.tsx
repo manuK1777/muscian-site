@@ -1,8 +1,6 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Alfa_Slab_One, Work_Sans, Playfair_Display } from 'next/font/google';
-import { SiteHeader } from '@/components/site-header';
-import { SiteFooter } from '@/components/site-footer';
 
 const sans = Work_Sans({
   subsets: ['latin'],
@@ -37,11 +35,9 @@ export default function RootLayout({
     <html lang="es" className={`${sans.variable} ${serif.variable} ${display.variable}`}>
       <body className="min-h-screen bg-background text-foreground antialiased">
         <div className="flex min-h-screen flex-col">
-          <SiteHeader />
           <main className="flex-1 px-4 py-8 md:px-8">
             <div className="mx-auto w-full max-w-5xl">{children}</div>
           </main>
-          <SiteFooter />
         </div>
       </body>
     </html>
