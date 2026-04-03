@@ -8,6 +8,7 @@ const navItems = [
   { href: '/', label: 'Home' },
   { href: '/bio', label: 'Bio' },
   { href: '/proyectos', label: 'Proyectos' },
+  { href: '/discografia', label: 'Discografia' }, 
   { href: '/media', label: 'Media' },
   { href: '/proximos-conciertos', label: 'Próximos Conciertos' },
   { href: '/contacto', label: 'Contacto' },
