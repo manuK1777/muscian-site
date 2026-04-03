@@ -1,24 +1,26 @@
 [
   {
-  "id": "blaumut-el-millor-que-hem-fet",
-  "titol": "El millor que hem fet",
-  "artista": "Blaumut",
-  "any": 2025,
-  "tipus": "Single",
-  "portada": "/images/discografia/El_Millor_Que_Hem_Fet-PORTADA.jpg",
-  "link": "https://www.youtube.com/watch?v=RF28JIApOqU",
-  "rol": "Baixista"
+    "id": "blaumut-el-millor-que-hem-fet",
+    "titol": "El millor que hem fet",
+    "artista": "Blaumut",
+    "any": 2025,
+    "tipus": "Single",
+    "portada": "/images/discografia/El_Millor_Que_Hem_Fet-PORTADA.jpg",
+    "link": "https://www.youtube.com/watch?v=RF28JIApOqU",
+    "rol": "Baixista",
+    "estils": ["pop"]
   },
   {
-  "id": "radio83-machine-heart",
-  "titol": "Machine Heart",
-  "artista": "Radio83",
-  "any": 2025,
-  "tipus": "Single",
-  "portada": "/images/discografia/R83-MACHINE-HEART-cover.jpg",
-  "link": "https://www.youtube.com/watch?v=2u1ZXJvA2RU&list=RD2u1ZXJvA2RU&start_radio=1",
-  "rol": "Productor, multiinstrumentista"
-},
+    "id": "radio83-machine-heart",
+    "titol": "Machine Heart",
+    "artista": "Radio83",
+    "any": 2025,
+    "tipus": "Single",
+    "portada": "/images/discografia/R83-MACHINE-HEART-cover.jpg",
+    "link": "https://www.youtube.com/watch?v=2u1ZXJvA2RU&list=RD2u1ZXJvA2RU&start_radio=1",
+    "rol": "Productor, multiinstrumentista",
+    "estils": ["electrònica"]
+  },
   {
     "id": "blaumut-abisme",
     "titol": "Abisme",
@@ -27,18 +29,20 @@
     "tipus": "Album",
     "portada": "/images/discografia/Abisme-de-Blaumut.webp",
     "link": "https://www.youtube.com/watch?v=tFeUU0L5Nio",
-    "rol": "Baixista, contrabaixista"
+    "rol": "Baixista, contrabaixista, teclista",
+    "estils": ["pop"]
   },
   {
-  "id": "radio83-wake-up",
-  "titol": "Wake Up",
-  "artista": "Radio83",
-  "any": 2024,
-  "tipus": "Single",
-  "portada": "/images/discografia/wakeUp.jpg",
-  "link": "https://www.youtube.com/watch?v=O8_vFZeF8gE",
-  "rol": "Productor, multiinstrumentista"
-},
+    "id": "radio83-wake-up",
+    "titol": "Wake Up",
+    "artista": "Radio83",
+    "any": 2024,
+    "tipus": "Single",
+    "portada": "/images/discografia/wakeUp.jpg",
+    "link": "https://www.youtube.com/watch?v=O8_vFZeF8gE",
+    "rol": "Productor, multiinstrumentista",
+    "estils": ["electrònica"]
+  },
   {
     "id": "blaumut-olimpica",
     "titol": "Olímpica i primavera",
@@ -47,7 +51,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/Olimpica-i-primavera-Blaumut.jpg",
     "link": "https://www.youtube.com/watch?v=XNagfii3I9g",
-    "rol": "Baixista, contrabaixista"
+    "rol": "Baixista, contrabaixista, teclista",
+    "estils": ["pop"]
   },
   {
     "id": "blaumut-0001",
@@ -57,48 +62,53 @@
     "tipus": "Album",
     "portada": "/images/discografia/0001-Blaumut.jpg",
     "link": "https://www.youtube.com/watch?v=IFWT4b1kyok",
-    "rol": "Baixista, contrabaixista"
+    "rol": "Baixista, contrabaixista, teclista",
+    "estils": ["pop"]
   },
   {
-  "id": "radio83-suomi",
-  "titol": "Suomi",
-  "artista": "Radio83",
-  "any": 2020,
-  "tipus": "Single",
-  "portada": "/images/discografia/suomi.jpg",
-  "link": "https://www.youtube.com/watch?v=PbgVwZOm5k0",
-  "rol": "Productor, multiinstrumentista"
-},
+    "id": "radio83-suomi",
+    "titol": "Suomi",
+    "artista": "Radio83",
+    "any": 2020,
+    "tipus": "Single",
+    "portada": "/images/discografia/suomi.jpg",
+    "link": "https://www.youtube.com/watch?v=PbgVwZOm5k0",
+    "rol": "Productor, multiinstrumentista",
+    "estils": ["electrònica"]
+  },
   {
-  "id": "blaumut-com-a-casa",
-  "titol": "Com a casa",
-  "artista": "Blaumut",
-  "any": 2018,
-  "tipus": "Single",
-  "portada": "/images/discografia/Com-a-casa-Blaumut.jpg",
-  "link": "https://www.youtube.com/watch?v=Iz1bgEXv0U4&list=OLAK5uy_nhnJfpX921WlWrl2f666TYBEwpJCmKdds",
-  "rol": "Baixista"
-},
-{
-  "id": "blaumut-particules",
-  "titol": "Partícules",
-  "artista": "Blaumut",
-  "any": 2018,
-  "tipus": "Single",
-  "portada": "/images/discografia/Particules-Blaumut.jpg",
-  "link": "https://www.youtube.com/watch?v=6DMFc5ySmm4&list=OLAK5uy_mZ2w5HDfNC5fcncB2s1mfLcbOpkoF8qgQ",
-  "rol": "Baixista"
-},
- {
-  "id": "radio83-ep",
-  "titol": "Radio83",
-  "artista": "Radio83",
-  "any": 2018,
-  "tipus": "EP",
-  "portada": "/images/discografia/r83-ep.jpg",
-  "link": "https://www.youtube.com/playlist?list=PL9I_yfXcZqDhuGvXrQ_ULYP52Y9wkIPAC",
-  "rol": "Productor, multiinstrumentista"
-},
+    "id": "blaumut-com-a-casa",
+    "titol": "Com a casa",
+    "artista": "Blaumut",
+    "any": 2018,
+    "tipus": "Single",
+    "portada": "/images/discografia/Com-a-casa-Blaumut.jpg",
+    "link": "https://www.youtube.com/watch?v=Iz1bgEXv0U4&list=OLAK5uy_nhnJfpX921WlWrl2f666TYBEwpJCmKdds",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
+  {
+    "id": "blaumut-particules",
+    "titol": "Partícules",
+    "artista": "Blaumut",
+    "any": 2018,
+    "tipus": "Single",
+    "portada": "/images/discografia/Particules-Blaumut.jpg",
+    "link": "https://www.youtube.com/watch?v=6DMFc5ySmm4&list=OLAK5uy_mZ2w5HDfNC5fcncB2s1mfLcbOpkoF8qgQ",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
+  {
+    "id": "radio83-ep",
+    "titol": "Radio83",
+    "artista": "Radio83",
+    "any": 2018,
+    "tipus": "EP",
+    "portada": "/images/discografia/r83-ep.jpg",
+    "link": "https://www.youtube.com/playlist?list=PL9I_yfXcZqDhuGvXrQ_ULYP52Y9wkIPAC",
+    "rol": "Productor, multiinstrumentista",
+    "estils": ["electrònica"]
+  },
   {
     "id": "marc-parrot-refugi",
     "titol": "Refugi",
@@ -107,7 +117,8 @@
     "tipus": "Single",
     "portada": "/images/discografia/marc-parrot-refugi.jpg",
     "link": "https://www.youtube.com/watch?v=jmqQNsuMxI0",
-    "rol": "Baixista"
+    "rol": "Baixista",
+    "estils": ["pop"]
   },
   {
     "id": "nubla-multiplexpo",
@@ -117,7 +128,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/nubla-multiplexpo.jpg",
     "link": "https://www.youtube.com/watch?v=pJNpujm5qxY",
-    "rol": "Baixista, contrabaixista"
+    "rol": "Baixista, contrabaixista",
+    "estils": ["indie"]
   },
   {
     "id": "blaumut-equilibri",
@@ -127,28 +139,31 @@
     "tipus": "Album",
     "portada": "/images/discografia/Equilibri-Blaumut.jpg",
     "link": "https://www.youtube.com/watch?v=vFBGQGPlLoc",
-    "rol": "Baixista, contrabaixista, teclista"
+    "rol": "Baixista, contrabaixista, teclista",
+    "estils": ["pop"]
   },
   {
-  "id": "blaumut-mil-nits-en-vetlla",
-  "titol": "Mil nits en vetlla (La Marató)",
-  "artista": "Blaumut",
-  "any": 2017,
-  "tipus": "Single",
-  "portada": "https://img.youtube.com/vi/ndK1RPHog3g/maxresdefault.jpg",
-  "link": "https://www.youtube.com/watch?v=ndK1RPHog3g&list=OLAK5uy_ngc23tMgGLHWvtK7jYrLsfENDF1mxqcE8",
-  "rol": "Baixista"
-},
+    "id": "blaumut-mil-nits-en-vetlla",
+    "titol": "Mil nits en vetlla (La Marató)",
+    "artista": "Blaumut",
+    "any": 2017,
+    "tipus": "Single",
+    "portada": "https://img.youtube.com/vi/ndK1RPHog3g/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=ndK1RPHog3g&list=OLAK5uy_ngc23tMgGLHWvtK7jYrLsfENDF1mxqcE8",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
   {
-  "id": "blaumut-previsions-dacostament",
-  "titol": "Previsions d'acostament",
-  "artista": "Blaumut",
-  "any": 2016,
-  "tipus": "Single",
-  "portada": "/images/discografia/Previsions-dacostament-Blaumut-1.jpg",
-  "link": "https://www.youtube.com/watch?v=UwNkRovvKEo&list=OLAK5uy_neOfG9hTfcabNEFFl5IQgnhi-3cOvKA1k",
-  "rol": "Baixista"
-},
+    "id": "blaumut-previsions-dacostament",
+    "titol": "Previsions d'acostament",
+    "artista": "Blaumut",
+    "any": 2016,
+    "tipus": "Single",
+    "portada": "/images/discografia/Previsions-dacostament-Blaumut-1.jpg",
+    "link": "https://www.youtube.com/watch?v=UwNkRovvKEo&list=OLAK5uy_neOfG9hTfcabNEFFl5IQgnhi-3cOvKA1k",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
   {
     "id": "blaumut-primer-arbre",
     "titol": "El primer arbre del bosc",
@@ -157,38 +172,42 @@
     "tipus": "Album",
     "portada": "/images/discografia/El-primer-arbre-del-bosc-Blaumut.jpg",
     "link": "https://www.youtube.com/watch?v=A7vHKR5HvzA",
-    "rol": "Baixista, contrabaixista, teclista"
+    "rol": "Baixista, contrabaixista, teclista",
+    "estils": ["pop"]
   },
   {
-  "id": "blaumut-segon-arbre-del-bosc",
-  "titol": "El segon arbre del bosc",
-  "artista": "Blaumut",
-  "any": 2015,
-  "tipus": "EP",
-  "portada": "/images/discografia/El-segon-arbre-del-bosc-Blaumut.jpg",
-  "link": "https://www.youtube.com/watch?v=e1aN8QnhrG0&list=OLAK5uy_kQyjT2cueclN5W7euSr5AhIaVFAwxLB0w",
-  "rol": "Contrabaixista"
+    "id": "blaumut-segon-arbre-del-bosc",
+    "titol": "El segon arbre del bosc",
+    "artista": "Blaumut",
+    "any": 2015,
+    "tipus": "EP",
+    "portada": "/images/discografia/El-segon-arbre-del-bosc-Blaumut.jpg",
+    "link": "https://www.youtube.com/watch?v=e1aN8QnhrG0&list=OLAK5uy_kQyjT2cueclN5W7euSr5AhIaVFAwxLB0w",
+    "rol": "Contrabaixista",
+    "estils": ["pop"]
   },
   {
-  "id": "blaumut-coralli",
-  "titol": "Coral·lí",
-  "artista": "Blaumut",
-  "any": 2013,
-  "tipus": "Single",
-  "portada": "https://img.youtube.com/vi/f2Z69GW0joA/maxresdefault.jpg",
-  "link": "https://www.youtube.com/watch?v=f2Z69GW0joA&list=OLAK5uy_l7er3lqM5uA-xkMArNh890BhrCK5_ZRvA",
-  "rol": "Baixista"
-},
-{
-  "id": "blaumut-i-beg-your-pardon",
-  "titol": "I beg your pardon",
-  "artista": "Blaumut",
-  "any": 2015,
-  "tipus": "Single",
-  "portada": "https://img.youtube.com/vi/l7LQUhYHiD0/maxresdefault.jpg",
-  "link": "https://www.youtube.com/watch?v=l7LQUhYHiD0&list=OLAK5uy_nOVVWhzTNVQdJojoAw0IFtdanVWNPqHbs",
-  "rol": "Baixista"
-},
+    "id": "blaumut-coralli",
+    "titol": "Coral·lí",
+    "artista": "Blaumut",
+    "any": 2013,
+    "tipus": "Single",
+    "portada": "https://img.youtube.com/vi/f2Z69GW0joA/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=f2Z69GW0joA&list=OLAK5uy_l7er3lqM5uA-xkMArNh890BhrCK5_ZRvA",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
+  {
+    "id": "blaumut-i-beg-your-pardon",
+    "titol": "I beg your pardon",
+    "artista": "Blaumut",
+    "any": 2015,
+    "tipus": "Single",
+    "portada": "https://img.youtube.com/vi/l7LQUhYHiD0/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=l7LQUhYHiD0&list=OLAK5uy_nOVVWhzTNVQdJojoAw0IFtdanVWNPqHbs",
+    "rol": "Baixista",
+    "estils": ["pop"]
+  },
   {
     "id": "broken-quartet-farras",
     "titol": "Meets Josep Maria Farràs",
@@ -197,7 +216,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/broken-quartet-farras.jpg",
     "link": "https://www.youtube.com/watch?v=Bg24ueDD-WI",
-    "rol": "Contrabaixista"
+    "rol": "Contrabaixista",
+    "estils": ["jazz"]
   },
   {
     "id": "mathew-simon-continental-blues",
@@ -207,7 +227,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/mathew-simon-continental-blues.jpg",
     "link": "https://www.youtube.com/watch?v=WIkEpA7eIcw",
-    "rol": "Contrabaixista"
+    "rol": "Contrabaixista",
+    "estils": ["jazz"]
   },
   {
     "id": "nelson-project-mode-joe",
@@ -217,7 +238,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/nelson-project-mode-joe.jpg",
     "link": "https://www.youtube.com/watch?v=O2Q-Mvq_TuU",
-    "rol": "Contrabaixista"
+    "rol": "Contrabaixista",
+    "estils": ["jazz"]
   },
   {
     "id": "nubla-saipan",
@@ -227,7 +249,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/nubla-saipan.jpg",
     "link": "https://www.youtube.com/watch?v=0GdLWbYcbiw",
-    "rol": "Baixista, contrabaixista"
+    "rol": "Baixista, contrabaixista",
+    "estils": ["indie"]
   },
   {
     "id": "elena-gadel-tocant-fusta",
@@ -237,7 +260,8 @@
     "tipus": "Album",
     "portada": "/images/discografia/elena-gadel-tocant-fusta.jpg",
     "link": "https://www.youtube.com/watch?v=abOM57WlP18",
-    "rol": "Contrabaixista"
+    "rol": "Contrabaixista",
+    "estils": ["mediterrani"]
   },
   {
     "id": "victor-correa-coltrane",
@@ -247,6 +271,7 @@
     "tipus": "Album",
     "portada": "/images/discografia/victor-correa-coltrane.jpg",
     "link": "https://www.youtube.com/watch?v=7f7EyKJbXeE",
-    "rol": "Contrabaixista"
+    "rol": "Contrabaixista",
+    "estils": ["jazz"]
   }
 ]

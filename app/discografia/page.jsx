@@ -11,11 +11,8 @@ export default function DiscografiaPage() {
   return (
     <section className="space-y-10">
       <header className="space-y-2">
-        <p className="font-sans text-xs uppercase tracking-[0.25em] text-foreground/50">
-          Discografia
-        </p>
         <h1 className="font-serif text-3xl italic md:text-4xl">
-          Treballs discogràfics
+          Discografia
         </h1>
         <p className="max-w-lg text-sm text-foreground/60 leading-relaxed">
           Una selecció dels àlbums i projectes on he participat com a
