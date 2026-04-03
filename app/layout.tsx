@@ -24,8 +24,8 @@ const display = Alfa_Slab_One({
 });
 
 export const metadata: Metadata = {
-  title: 'Manuel K | Músico',
-  description: 'Sitio oficial de Manuel K – guitarrista y compositor.',
+  title: 'Manuel Krapovickas | Músico',
+  description: 'Sitio oficial de Manuel Krapovickas - músico, bajista, contrabajista, compositor y productor.',
 };
 
 export default function RootLayout({

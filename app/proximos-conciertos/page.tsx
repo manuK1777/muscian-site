@@ -17,9 +17,6 @@ export default function ProximosConciertosPage() {
   return (
     <section className="space-y-6">
       <header className="space-y-2">
-        <p className="font-sans text-xs uppercase tracking-[0.25em] text-foreground/60">
-          Directo
-        </p>
         <h1 className="font-serif text-3xl italic md:text-4xl">Próximos conciertos</h1>
         <p className="max-w-2xl text-sm text-foreground/70">
           Gestionados desde un archivo JSON local para que sea fácil de actualizar.

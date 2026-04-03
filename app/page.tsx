@@ -4,7 +4,7 @@ export default function HomePage() {
   return (
     <section className="space-y-16">
       {/* Hero */}
-      <header className="grid items-center gap-8 md:grid-cols-[1fr_auto] md:max-w-4xl md:mx-auto">
+      <main className="grid items-center gap-8 md:grid-cols-[1fr_auto] md:max-w-4xl md:mx-auto">
         <div className="space-y-5">
           <p className="font-sans text-xs uppercase tracking-[0.25em] text-foreground/50">
             Baixista · Contrabaixista
@@ -20,9 +20,9 @@ export default function HomePage() {
           </p>
         </div>
 
-        <div className="relative h-72 w-56 shrink-0 overflow-hidden rounded-md
+        <div className="relative h-80 w-64 shrink-0 overflow-hidden rounded-md
              border border-black/5 bg-white/80 shadow-sm
-             md:h-80 md:w-64 md:mt-6">
+             md:h-96 md:w-72 md:mt-4">
           <Image
             src="/images/foto-hero.jpg"
             alt="Manuel Krapovickas"
@@ -31,10 +31,10 @@ export default function HomePage() {
             priority
           />
         </div>
-      </header>
+      </main>
 
       {/* Sous-sections */}
-      <div className="grid gap-10 md:grid-cols-2 md:max-w-4xl md:mx-auto">
+      {/* <div className="grid gap-10 md:grid-cols-2 md:max-w-4xl md:mx-auto">
         <div className="space-y-3">
           <h2 className="font-sans text-xs uppercase tracking-[0.2em] text-foreground/50">
             Pròxims concerts
@@ -51,7 +51,7 @@ export default function HomePage() {
             Secció per destacar discos, singles o vídeos recents.
           </p>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }

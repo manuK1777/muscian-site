@@ -10,9 +10,6 @@ export default async function BioPage() {
   return (
     <section className="space-y-6">
       <header className="space-y-2">
-        <p className="font-sans text-xs uppercase tracking-[0.25em] text-foreground/60">
-          Bio
-        </p>
         <h1 className="font-serif text-3xl italic md:text-4xl">{bio.data.title}</h1>
       </header>
       <article
