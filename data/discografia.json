@@ -19,7 +19,7 @@
     "portada": "/images/discografia/R83-MACHINE-HEART-cover.jpg",
     "link": "https://www.youtube.com/watch?v=2u1ZXJvA2RU&list=RD2u1ZXJvA2RU&start_radio=1",
     "rol": "Productor, multiinstrumentista",
-    "estils": ["electrònica"]
+    "estils": ["electrònica", "experimental", "indie"]
   },
   {
     "id": "blaumut-abisme",
@@ -41,7 +41,7 @@
     "portada": "/images/discografia/wakeUp.jpg",
     "link": "https://www.youtube.com/watch?v=O8_vFZeF8gE",
     "rol": "Productor, multiinstrumentista",
-    "estils": ["electrònica"]
+    "estils": ["electrònica", "experimental", "indie"]
   },
   {
     "id": "blaumut-olimpica",
@@ -74,8 +74,19 @@
     "portada": "/images/discografia/suomi.jpg",
     "link": "https://www.youtube.com/watch?v=PbgVwZOm5k0",
     "rol": "Productor, multiinstrumentista",
-    "estils": ["electrònica"]
+    "estils": ["electrònica", "experimental", "indie"]
   },
+  {
+  "id": "mystisen-naaraan-portti-silmat",
+  "titol": "Silmät",
+  "artista": "Mystisen naaraan portti",
+  "any": 2020,
+  "tipus": "Cançó",
+  "portada": "https://img.youtube.com/vi/dThDxTqXKM8/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=dThDxTqXKM8&list=RDdThDxTqXKM8&start_radio=1",
+  "rol": "Productor, teclista",
+  "estils": ["folk", "electrònica", "indie"]
+},
   {
     "id": "blaumut-com-a-casa",
     "titol": "Com a casa",
@@ -107,18 +118,18 @@
     "portada": "/images/discografia/r83-ep.jpg",
     "link": "https://www.youtube.com/playlist?list=PL9I_yfXcZqDhuGvXrQ_ULYP52Y9wkIPAC",
     "rol": "Productor, multiinstrumentista",
-    "estils": ["electrònica"]
+    "estils": ["electrònica", "experimental", "indie"]
   },
-  {
-    "id": "marc-parrot-refugi",
-    "titol": "Refugi",
-    "artista": "Marc Parrot",
-    "any": 2018,
-    "tipus": "Single",
-    "portada": "/images/discografia/marc-parrot-refugi.jpg",
-    "link": "https://www.youtube.com/watch?v=jmqQNsuMxI0",
-    "rol": "Baixista",
-    "estils": ["pop"]
+ {
+  "id": "marc-parrot-refugi",
+  "titol": "Misteriosament feliç",
+  "artista": "Marc Parrot",
+  "any": 2018,
+  "tipus": "Cançó del àlbum \"Refugi\"",
+  "portada": "https://img.youtube.com/vi/SvCe5x6nAFg/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=jmqQNsuMxI0",
+  "rol": "Baixista",
+  "estils": ["pop"]
   },
   {
     "id": "nubla-multiplexpo",
@@ -153,6 +164,28 @@
     "rol": "Baixista",
     "estils": ["pop"]
   },
+  {
+  "id": "clementina-darrere-del-vent",
+  "titol": "Darrere del vent",
+  "artista": "Clementina",
+  "any": 2017,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/5Jv49q3DRLE/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=5Jv49q3DRLE&list=OLAK5uy_lAIElaNHUtYPkEHR4x1nDtLVcnF0G6DhU",
+  "rol": "Baixista",
+  "estils": ["pop"]
+},
+  {
+  "id": "bruno-oro-mr-dream",
+  "titol": "Mr. Dream",
+  "artista": "Bruno Oro",
+  "any": 2017,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/MhIgjYxziug/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=MhIgjYxziug&list=RDMhIgjYxziug&start_radio=1",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
   {
     "id": "blaumut-previsions-dacostament",
     "titol": "Previsions d'acostament",
@@ -209,69 +242,168 @@
     "estils": ["pop"]
   },
   {
-    "id": "broken-quartet-farras",
-    "titol": "Meets Josep Maria Farràs",
-    "artista": "Broken Quartet",
-    "any": 2013,
-    "tipus": "Album",
-    "portada": "/images/discografia/broken-quartet-farras.jpg",
-    "link": "https://www.youtube.com/watch?v=Bg24ueDD-WI",
-    "rol": "Contrabaixista",
-    "estils": ["jazz"]
-  },
+  "id": "bruno-oro-viatge",
+  "titol": "Viatge de l'home que Esternuda",
+  "artista": "Bruno Oro",
+  "any": 2014,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/o4aR-JSljfk/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=o4aR-JSljfk&list=RDo4aR-JSljfk&start_radio=1",
+  "rol": "Productor, arreglista, baixista, contrabaixista",
+  "estils": ["jazz"]
+},
   {
-    "id": "mathew-simon-continental-blues",
-    "titol": "Continental Blues",
-    "artista": "Mathew Simon Quartet",
-    "any": 2012,
-    "tipus": "Album",
-    "portada": "/images/discografia/mathew-simon-continental-blues.jpg",
-    "link": "https://www.youtube.com/watch?v=WIkEpA7eIcw",
-    "rol": "Contrabaixista",
-    "estils": ["jazz"]
-  },
-  {
-    "id": "nelson-project-mode-joe",
-    "titol": "Mode Joe Vol. 2",
-    "artista": "Nelson Project",
-    "any": 2012,
-    "tipus": "Album",
-    "portada": "/images/discografia/nelson-project-mode-joe.jpg",
-    "link": "https://www.youtube.com/watch?v=O2Q-Mvq_TuU",
-    "rol": "Contrabaixista",
-    "estils": ["jazz"]
-  },
-  {
-    "id": "nubla-saipan",
-    "titol": "Saipan",
-    "artista": "Nubla",
-    "any": 2011,
-    "tipus": "Album",
-    "portada": "/images/discografia/nubla-saipan.jpg",
-    "link": "https://www.youtube.com/watch?v=0GdLWbYcbiw",
-    "rol": "Baixista, contrabaixista",
-    "estils": ["indie"]
-  },
-  {
-    "id": "elena-gadel-tocant-fusta",
-    "titol": "Tocant Fusta",
-    "artista": "Elena Gadel",
-    "any": 2010,
-    "tipus": "Album",
-    "portada": "/images/discografia/elena-gadel-tocant-fusta.jpg",
-    "link": "https://www.youtube.com/watch?v=abOM57WlP18",
-    "rol": "Contrabaixista",
-    "estils": ["mediterrani"]
-  },
-  {
-    "id": "victor-correa-coltrane",
-    "titol": "Coltrane",
-    "artista": "Victor Correa Septet",
-    "any": 2009,
-    "tipus": "Album",
-    "portada": "/images/discografia/victor-correa-coltrane.jpg",
-    "link": "https://www.youtube.com/watch?v=7f7EyKJbXeE",
-    "rol": "Contrabaixista",
-    "estils": ["jazz"]
-  }
+  "id": "broken-quartet-farras",
+  "titol": "Meets Josep Maria Farràs",
+  "artista": "Broken Quartet",
+  "any": 2013,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/Bg24ueDD-WI/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=Bg24ueDD-WI",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "zetzania-gospel-jazz",
+  "titol": "Gospel & Jazz",
+  "artista": "Zetzània Grup Vocal",
+  "any": 2013,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/WKfkLxkMgdM/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=WKfkLxkMgdM&list=OLAK5uy_lYxzn-0p4ClS-Asib1ZNI125JutkVguWc",
+  "rol": "Baixista, contrabaixista",
+  "estils": ["gospel", "jazz"]
+},
+{
+  "id": "barcelona-ethnic-band",
+  "titol": "Barcelona Ethnic Band",
+  "artista": "Barcelona Ethnic Band",
+  "any": 2013,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/8flWV94A088/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=8flWV94A088&list=OLAK5uy_l79b7bB_DALnyteQQUwRRjYjOpTlOI4SQ&index=2",
+  "rol": "Contrabaixista",
+  "estils": ["musiques del món", "folk"]
+},
+{
+  "id": "tuima-vaiennut-viulu",
+  "titol": "Vaiennut viulu",
+  "artista": "Tuima",
+  "any": 2013,
+  "tipus": "Cançó del àlbum \"Tuima Wanted\"",
+  "portada": "/images/discografia/tuima-wanted.jpg",
+  "link": "https://open.spotify.com/album/6JfgZx36xZFY2kaynSUrJg",
+  "rol": "Contrabaixista",
+  "estils": ["folk"]
+},
+{
+  "id": "nelson-project-mode-joe-live",
+  "titol": "Live at Jamboree",
+  "artista": "Nelson Project",
+  "any": 2012,
+  "tipus": "Album",
+  "portada": "/images/discografia/nelson-project.jpg",
+  "link": "https://nelsonproject.bandcamp.com/album/mode-joe-vol-2-live-jamboree",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "mathew-simon-continental-blues",
+  "titol": "Continental Blues",
+  "artista": "Mathew Simon Quartet",
+  "any": 2012,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/WIkEpA7eIcw/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=WIkEpA7eIcw",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "nelson-project-mode-joe",
+  "titol": "Mode Joe Vol. 2",
+  "artista": "Nelson Project",
+  "any": 2012,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/O2Q-Mvq_TuU/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=O2Q-Mvq_TuU",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "nubla-saipan",
+  "titol": "Saipan",
+  "artista": "Nubla",
+  "any": 2011,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/0GdLWbYcbiw/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=0GdLWbYcbiw",
+  "rol": "Baixista, contrabaixista",
+  "estils": ["indie"]
+},
+{
+  "id": "elena-gadel-tocant-fusta",
+  "titol": "Tocant Fusta",
+  "artista": "Elena Gadel",
+  "any": 2010,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/abOM57WlP18/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=abOM57WlP18",
+  "rol": "Contrabaixista",
+  "estils": ["folk", "musiques del món"]
+},
+{
+  "id": "victor-correa-coltrane",
+  "titol": "Coltrane",
+  "artista": "Victor Correa Septet",
+  "any": 2009,
+  "tipus": "Album",
+  "portada": "https://img.youtube.com/vi/7f7EyKJbXeE/maxresdefault.jpg",
+  "link": "https://www.youtube.com/watch?v=7f7EyKJbXeE",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "albert-marques-trio-bonell",
+  "titol": "Albert Marqués Trío + Jordi Bonell",
+  "artista": "Albert Marqués Trío",
+  "any": 2008,
+  "tipus": "Album",
+  "portada": "/images/discografia/albertmarques-trio-bonell.jpg",
+  "link": "http://www.distritojazz.com/discos-jazz/albert-marques-albert-marques-triojordi-bonell",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "nelson-project-full-nelson",
+  "titol": "Full Nelson Vol. 1",
+  "artista": "Nelson Project",
+  "any": 2007,
+  "tipus": "Album",
+  "portada": "/images/discografia/nelson-project-vol-1.jpg",
+  "link": "https://nelsonproject.bandcamp.com/album/full-nelson-vol-1",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+},
+{
+  "id": "ummo-paseo-ummita",
+  "titol": "Paseo Ummita",
+  "artista": "Ummo",
+  "any": 2006,
+  "tipus": "Album",
+  "portada": "/images/discografia/ummo.jpg",
+  "link": "https://www.discogs.com/es/release/12673118-Ummo-Paseo-Ummita-1999-2003",
+  "rol": "Baixista",
+  "estils": ["experimental", "electrònica"]
+},
+{
+  "id": "enjazztre-malos-tiempos",
+  "titol": "Malos Tiempos",
+  "artista": "Enjazztre",
+  "any": 2002,
+  "tipus": "Album",
+  "portada": "/images/discografia/enjazztre.jpg",
+  "link": "https://open.spotify.com/album/0YTw781MosDU8xYpluxoUw",
+  "rol": "Contrabaixista",
+  "estils": ["jazz"]
+}
 ]

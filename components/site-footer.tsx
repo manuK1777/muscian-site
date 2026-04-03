@@ -4,7 +4,7 @@ export function SiteFooter() {
   return (
     <footer className="border-t border-black/5 bg-white/80">
       <div className="mx-auto flex max-w-5xl flex-col items-start justify-between gap-2 px-4 py-4 text-xs text-foreground/60 md:flex-row md:px-8">
-        <p>&copy; {year} Manuel K. Todos los derechos reservados.</p>
+        <p>&copy; {year} Manuel Krapovickas.</p>
         <nav className="flex items-center gap-4 md:gap-6">
           <a
             href="https://youtube.com"
